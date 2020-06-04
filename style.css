@@ -1,0 +1,139 @@
+body{
+    margin:0;
+    }
+
+
+
+.first{
+    margin: 0 0;
+    color:white;
+    background-color: #0d0d0d;
+    font-family: 'Caveat', cursive;
+    font-size: 28px;
+opacity: .8;
+    width:100%;
+padding-top: 15px;
+    padding-bottom: 15px;
+text-align: center;
+    padding;10px;
+    word-spacing: 10px;
+    
+}
+
+.first:hover{
+    background-color: darkorange;
+}
+
+.second{
+    margin-top: 0 0 5px 0;
+    background-color: lightskyblue;
+    padding:25px 25px;
+font-family: 'Fredericka the Great', cursive;
+}
+.second:hover{
+    background-color: #141414;
+    color:white;
+}
+.second h3{
+    word-spacing: 4px
+}
+
+#third5{
+    width:650px;
+    margin-top: 25px;
+    padding:15px;
+margin-left: 25%;
+    background-color: lightgrey;
+border-radius: 9px;
+    
+   
+}
+
+#third5 p{
+    font-size: 24px;
+    word-spacing: 2px;
+
+}
+
+
+
+#third5:hover{
+    background-color: orangered;
+}
+ 
+#textWrapper54{
+    line-height: 10px;
+    border: 13px solid blue;
+    margin:15px;
+    margin-left: 390px;
+    display: inline-flex;
+    
+    border-spacing: none;
+clear: both;    
+border-radius: 19px;
+}
+#textArea77{
+    font-size: 24px;
+    font-style:oblique;
+    margin:0;
+    padding: 0;
+    font-size: 24px;
+    font-weight: bold;
+    clear:both;
+}
+
+#timerVala{
+    margin-top: 25px;
+font-size: 55px;
+    margin-left: 550px;
+font-weight: bold;
+padding:15px;
+color: red;
+}
+
+#reset{
+    font-size: 30px;
+    border:9px solid orange;
+    border-radius: 9px;
+    padding: 15px;
+    margin: 25px;
+}
+
+#reset:hover{
+    background-color: orange;
+    box-shadow: 5px 5px 5px 5px red;
+}
+
+
+
+
+
+
+
+
+
+
+
+#kamki{
+    color:red;
+    float:right;
+    margin-top: -300px;
+    margin-right: 200px;
+    font-size: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
